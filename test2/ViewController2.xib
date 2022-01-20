@@ -20,7 +20,7 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Test CODE XIB" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Oa0-us-iLX">
-                    <rect key="frame" x="126.5" y="400" width="161" height="30"/>
+                    <rect key="frame" x="126.5" y="433" width="161" height="30"/>
                     <fontDescription key="fontDescription" type="system" pointSize="25"/>
                     <nil key="textColor"/>
                     <nil key="highlightedColor"/>
@@ -29,7 +29,7 @@
             <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
             <color key="backgroundColor" systemColor="systemBackgroundColor"/>
             <constraints>
-                <constraint firstItem="Oa0-us-iLX" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="356" id="Pdk-fE-I4u"/>
+                <constraint firstItem="Oa0-us-iLX" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" id="htl-aY-4If"/>
                 <constraint firstItem="Oa0-us-iLX" firstAttribute="centerX" secondItem="fnl-2z-Ty3" secondAttribute="centerX" id="udh-3O-Vjf"/>
             </constraints>
             <edgeInsets key="layoutMargins" top="8" left="8" bottom="8" right="8"/>
